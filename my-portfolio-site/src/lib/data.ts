@@ -72,17 +72,64 @@ export const personalInfo = {
   
   export const projects = [
     {
+      title: "ML Forecasting",
+      github: "#",
+      description: ["Hourly predictions using NeuralProphet"],
+      category: "ml",
+    },
+    {
+      title: "Flyon Compiler",
+      github: "#",
+      description: ["Custom compiler with semantic checks"],
+      category: "ml",
+    },
+    {
+      title: "ML Forecasting 2",
+      github: "#",
+      description: ["Hourly predictions using NeuralProphet"],
+      category: "ml",
+    },
+    {
+      title: "Flyon Compiler 2",
+      github: "#",
+      description: ["Custom compiler with semantic checks"],
+      category: "ml",
+    },
+    {
+      title: "ML Forecasting 3",
+      github: "#",
+      description: ["Hourly predictions using NeuralProphet"],
+      category: "ml",
+    },
+    {
+      title: "Flyon Compiler 3",
+      github: "#",
+      description: ["Custom compiler with semantic checks"],
+      category: "ml",
+    },
+    {
       title: "Project 1",
       github: "#",
-      description: [
-        "Description",
-      ],
+      description: ["Appointment scheduler with PostgreSQL backend"],
+      category: "web",
     },
     {
       title: "Project 2",
       github: "#",
-      description: [
-        "Description",
-      ],
+      description: ["Responsive design using React and Tailwind"],
+      category: "web",
+    },
+    {
+      title: "Project 3",
+      github: "#",
+      description: ["Responsive design using React and Tailwind"],
+      category: "web",
+    },
+    {
+      title: "Project 4",
+      github: "#",
+      description: ["Responsive design using React and Tailwind"],
+      category: "web",
     },
   ];
+  
